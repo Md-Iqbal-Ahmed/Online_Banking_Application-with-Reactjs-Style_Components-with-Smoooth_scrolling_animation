@@ -1,4 +1,4 @@
-# Banking-App
+# Online_Banking_Application-with-Reactjs-Style_Components-with-Smoooth_scrolling_animation
 
 ## This is a forntend application for Online Banking Application. I have used REACT-JS and React styled component library to design the web pages and react-scroll for smooth scrolling animation.
 
