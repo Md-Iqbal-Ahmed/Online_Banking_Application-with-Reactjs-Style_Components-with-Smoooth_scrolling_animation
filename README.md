@@ -9,6 +9,8 @@
 - Fully mobile responsive design application.
 - React Style Components for designing the web pages.
 
+Live demo: https://adoring-bhaskara-7c2074.netlify.app/
+
 ## Homepage view with navbar and video background animation 
 ![animate](https://user-images.githubusercontent.com/77459327/109669075-f4ac1e00-7b9b-11eb-879c-c7bc7212d576.gif)
 
